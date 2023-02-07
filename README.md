@@ -10,6 +10,19 @@ Created USING P.E.R.N Stack
 - Node
 - React
 
+
+## Back-End Dependencies Use
+- PG
+- Express
+- CORS
+- JsonWebToken
+
+
+## Front-End Dependencies Use
+- TailWind CSS
+- MUI
+- Axios
+
 ## Documentation
 This area is to be filled
 
