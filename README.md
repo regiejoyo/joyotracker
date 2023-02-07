@@ -23,6 +23,9 @@ Created USING P.E.R.N Stack
 - MUI
 - Axios
 
+## Database Schema
+[Imgur](https://imgur.com/pbLPKKy)
+
 ## Documentation
 This area is to be filled
 
