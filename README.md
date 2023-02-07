@@ -24,7 +24,7 @@ Created USING P.E.R.N Stack
 - Axios
 
 ## Database Schema
-[DB](https://i.imgur.com/pbLPKKy.png)
+[DB(https://i.imgur.com/pbLPKKy.png)]
 
 ## Documentation
 This area is to be filled
