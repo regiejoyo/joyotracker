@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/regiejoyo/joyotracker.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["tracker", "cargo tracker", "joyotracker"],
+  "author": "Reginald Bartiana",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/regiejoyo/joyotracker/issues"
