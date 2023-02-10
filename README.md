@@ -10,6 +10,13 @@ Created USING P.E.R.N Stack
 - Node
 - React
 
+## Tools Used in Development
+- Postman (API)
+- Visual Studio Code (Coding)
+- Fork (Git Client)
+- Git (Version Control)
+- Figma (Design and Wireframe)
+
 
 ## Back-End Dependencies Use
 - PG
